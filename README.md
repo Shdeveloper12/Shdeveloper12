@@ -6,7 +6,7 @@
 
 <h2>About Me</h2>
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
-- 🔭 I’m currently studying on **computer science engineering.**
+- 🔭 I’m currently studying on computer science engineering.
 
 - 🌱 I’m currently learning **Next.js , React Native.**
 
