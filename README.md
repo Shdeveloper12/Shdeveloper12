@@ -1,6 +1,6 @@
-![logo](https://github.com/Shdeveloper12/Shdeveloper12/blob/main/Blue%20and%20White%20Illustrated%20Welcome%20Banner%20(2).png)
+![logo](https://github.com/Shdeveloper12/Shdeveloper12/blob/main/Blue%20and%20White%20Illustrated%20Welcome%20Banner%20(3).png)
 <h1 align="center">Hi 👋, I'm Md Shafayet Hossen</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shdeveloper12&label=Profile%20views&color=0e75b6&style=flat" alt="shdeveloper12" /> </p>
 
