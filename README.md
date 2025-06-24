@@ -1,4 +1,4 @@
-![logo](https://github.com/Shdeveloper12/Shdeveloper12/blob/main/Blue%20and%20White%20Illustrated%20Welcome%20Banner.png)
+![logo](https://github.com/Shdeveloper12/Shdeveloper12/blob/main/Blue%20and%20White%20Illustrated%20Welcome%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Md Shafayet Hossen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
