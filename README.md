@@ -6,17 +6,17 @@
 
 <h2>About Me</h2>
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
-- 🔭 I’m currently studying on computer science engineering.
+- 🔭 I’m currently studying computer science engineering at Stamford University, Bangladesh.
 
 - 🌱 I’m currently learning **Next.js , React Native.**
 
 - I'm working on **E-commerce Website**
 
-- 💬 Ask me about **react, JavaScript.**
+- 💬 Ask me about **React,TypeScript, JavaScript.**
 
 - 📫 How to reach me **shafayets422@gmail.com**
 
-- ⚡ Fun fact **I think I am hard worker**
+- ⚡ Fun fact **I think I am a hard worker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
