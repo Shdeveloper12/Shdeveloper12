@@ -12,7 +12,7 @@
 
 - I'm working on **E-commerce Website**
 
-- 💬 Ask me about **React,TypeScript, JavaScript.**
+- 💬 Ask me about **React.js, TypeScript, JavaScript, Next.js**
 
 - 📫 How to reach me **shafayets422@gmail.com**
 
