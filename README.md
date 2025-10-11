@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js , React Native.**
 
-- I'm working on **E-commerce Website**
+- I'm working on **Educational Website**
 
 - 💬 Ask me about **React.js, TypeScript, JavaScript, Next.js**
 
