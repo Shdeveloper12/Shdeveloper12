@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shafayets422@gmail.com**
 
-- ⚡ Strong side **I think I am a hard worker**
+- ⚡ Strong side **"I think I am a hard worker"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
