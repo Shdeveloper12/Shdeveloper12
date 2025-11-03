@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Next.js , React Native.**
 
-- I'm working on **Educational Website**
+- I'm working on **E-Commerce Website**
 
-- 💬 Ask me about **React.js, TypeScript, JavaScript, Next.js**
+- 💬 Ask me about **React.js, TypeScript, JavaScript, Next.js, Node.js, Express.js**
 
 - 📫 How to reach me **shafayets422@gmail.com**
 
-- ⚡ Fun fact **I think I am a hard worker**
+- ⚡ Strong side **I think I am a hard worker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
