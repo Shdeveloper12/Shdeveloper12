@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React.js, TypeScript, JavaScript, Next.js, Node.js, Express.js**
 
-- 📫 How to reach me **shafayets422@gmail.com**
+- 📫 How to reach me **shafayet237@gmail.com**
 
 - ⚡ Strong side **"I think I am a hard worker"**
 
